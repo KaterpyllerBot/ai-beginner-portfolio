@@ -17,4 +17,4 @@ A simple Python script that says "Hello AI!" — because every expert starts som
 - Python basics
 - Linux for AI environments
 
-Follow along as I grow from zero to AI skillz to building something real 🧬# ai-beginner-portfolio
+Follow along as I grow from zero to AI skillz to building something real 🧬# AI-beginner-portfolio
